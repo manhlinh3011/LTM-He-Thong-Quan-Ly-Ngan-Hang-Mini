@@ -44,8 +44,7 @@ Các đặc điểm nổi bật:
 ---
 
 ## 3. Hình ảnh các chức năng
-
-
+![Giao diện đăng nhập](images/dangnhap.png)  
 ---
 
 ## 4. Các bước cài đặt
