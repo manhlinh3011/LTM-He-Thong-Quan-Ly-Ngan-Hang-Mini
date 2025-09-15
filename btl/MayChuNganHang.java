@@ -9,6 +9,7 @@ public class MayChuNganHang {
     public static void main(String[] args) throws Exception {
         DichVuNganHang service = new DichVuNganHang();
         service.seedAdmin();
+        //TCP
         int port = PORT;
         try{ String sp = System.getProperty("server.port"); if(sp!=null) port = Integer.parseInt(sp); }catch(Exception ignored){}
         try{ String ev = System.getenv("BANK_PORT"); if(ev!=null) port = Integer.parseInt(ev); }catch(Exception ignored){}
@@ -29,6 +30,7 @@ public class MayChuNganHang {
 class XuLyClient extends Thread {
     private final Socket socket; private final DichVuNganHang svc;
     public XuLyClient(Socket s, DichVuNganHang svc){ this.socket=s; this.svc=svc; }
+    //TCPTCP
     @Override public void run(){
         try(BufferedReader br = new BufferedReader(new InputStreamReader(socket.getInputStream()));
             PrintWriter pw = new PrintWriter(socket.getOutputStream(), true)){
