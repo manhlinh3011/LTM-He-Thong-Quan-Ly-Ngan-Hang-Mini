@@ -73,7 +73,6 @@ Các đặc điểm nổi bật:
   <br/>
   <em>Giao diện chức năng sao kê lịch sử (nạp, rút, chuyển)</em><br/>
 </p>
----
 
 ## 4. Các bước cài đặt
 1. **Cài đặt môi trường**  
