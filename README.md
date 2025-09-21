@@ -47,31 +47,31 @@ Các đặc điểm nổi bật:
 <p align="center">
   <img src="images/dangnhap.png" alt="Đăng nhập" width="1000"/>
   <br/>
-  <em>Giao diện chức năng đăng nhập</em><br/>
+  <em>Hình 1. Giao diện chức năng đăng nhập</em><br/>
 </p>
 ---
 <p align="center">
   <img src="images/thongtinKH.png" alt="Thông tin khách hàng" width="1000"/>
   <br/>
-  <em>Giao diện chức năng quản lý thông tin khách hàng (thêm, sửa, xóa, xuất file csv)</em><br/>
+  <em>Hình 2. Giao diện chức năng quản lý thông tin khách hàng (thêm, sửa, xóa, xuất file csv)</em><br/>
 </p>
 ---
 <p align="center">
   <img src="images/taikhoanKH.png" alt="Tài khoản khách hàng" width="1000"/>
   <br/>
-  <em>Giao diện chức năng quản lý thông tin tài khoản khách hàng (thêm, sửa, xóa, xuất file csv)</em><br/>
+  <em>Hình 3. Giao diện chức năng quản lý thông tin tài khoản khách hàng (thêm, sửa, xóa, xuất file csv)</em><br/>
 </p>
 ---
 <p align="center">
   <img src="images/giaodichKH.png" alt="Giao dịch" width="1000"/>
   <br/>
-  <em>Giao diện chức năng giao dịch (nạp, rút, chuyển)</em><br/>
+  <em>Hình 4. Giao diện chức năng giao dịch (nạp, rút, chuyển)</em><br/>
 </p>
 ---
 <p align="center">
   <img src="images/saoke.png" alt="Sao kê" width="1000"/>
   <br/>
-  <em>Giao diện chức năng sao kê lịch sử (nạp, rút, chuyển)</em><br/>
+  <em>Hình 5. Giao diện chức năng sao kê lịch sử (nạp, rút, chuyển)</em><br/>
 </p>
 
 ## 4. Các bước cài đặt
