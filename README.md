@@ -92,3 +92,11 @@ Các đặc điểm nổi bật:
    public static final String DB_USER = "<user>";
    public static final String DB_PASS = "<pass>";
 
+## 5. Thông tin liên hệ  
+Họ tên: Hoàng Mạnh Linh.  
+Lớp: CNTT 16-03.  
+Email: linhmanhhoang03@gmail.com.
+
+© 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.
+
+---
