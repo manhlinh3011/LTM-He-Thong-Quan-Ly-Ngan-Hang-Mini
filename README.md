@@ -45,33 +45,45 @@ Các đặc điểm nổi bật:
 
 ## 3. Hình ảnh các chức năng
 <p align="center">
-  <img src="images/dangnhap.png" alt="Đăng nhập" width="1000"/>
+  <img src="images/login.png" alt="Đăng nhập" width="1000"/>
   <br/>
-  <em>Hình 1. Giao diện chức năng đăng nhập</em><br/>
+  <em>Hình 1. 🖥️ Giao diện chức năng đăng nhập</em><br/>
 </p>
 ---
 <p align="center">
-  <img src="images/thongtinKH.png" alt="Thông tin khách hàng" width="1000"/>
+  <img src="images/khachhang.png" alt="Thông tin khách hàng" width="1000"/>
   <br/>
-  <em>Hình 2. Giao diện chức năng quản lý thông tin khách hàng (thêm, sửa, xóa, xuất file csv)</em><br/>
+  <em>Hình 2. 🖥️ Giao diện chức năng quản lý thông tin khách hàng (thêm, sửa, xóa, xuất file csv)</em><br/>
 </p>
 ---
 <p align="center">
-  <img src="images/taikhoanKH.png" alt="Tài khoản khách hàng" width="1000"/>
+  <img src="images/taikhoan.png" alt="Tài khoản khách hàng" width="1000"/>
   <br/>
-  <em>Hình 3. Giao diện chức năng quản lý thông tin tài khoản khách hàng (thêm, sửa, xóa, xuất file csv)</em><br/>
+  <em>Hình 3. 🖥️ Giao diện chức năng quản lý thông tin tài khoản khách hàng (thêm, sửa, xóa, xuất file csv)</em><br/>
 </p>
 ---
 <p align="center">
-  <img src="images/giaodichKH.png" alt="Giao dịch" width="1000"/>
+  <img src="images/naptien.png" alt="Nạp tiền" width="1000"/>
   <br/>
-  <em>Hình 4. Giao diện chức năng giao dịch (nạp, rút, chuyển)</em><br/>
+  <em>Hình 4. 🖥️ Giao diện chức năng nạp tiền</em><br/>
+</p>
+---
+<p align="center">
+  <img src="images/ruttien.png" alt="Rút tiền" width="1000"/>
+  <br/>
+  <em>Hình 5. 🖥️ Giao diện chức năng rút tiền</em><br/>
+</p>
+---
+<p align="center">
+  <img src="images/chuyenkhoan.png" alt="Chuyển khoản" width="1000"/>
+  <br/>
+  <em>Hình 6. 🖥️ Giao diện chức năng chuyển khoản</em><br/>
 </p>
 ---
 <p align="center">
   <img src="images/saoke.png" alt="Sao kê" width="1000"/>
   <br/>
-  <em>Hình 5. Giao diện chức năng sao kê lịch sử (nạp, rút, chuyển)</em><br/>
+  <em>Hình 77. 🖥️ Giao diện chức năng sao kê lịch sử (nạp, rút, chuyển)</em><br/>
 </p>
 
 ## 4. Các bước cài đặt
