@@ -83,7 +83,7 @@ Các đặc điểm nổi bật:
 <p align="center">
   <img src="images/saoke.png" alt="Sao kê" width="1000"/>
   <br/>
-  <em>Hình 77. 🖥️ Giao diện chức năng sao kê lịch sử (nạp, rút, chuyển)</em><br/>
+  <em>Hình 7. 🖥️ Giao diện chức năng sao kê lịch sử (nạp, rút, chuyển)</em><br/>
 </p>
 
 ## 4. Các bước cài đặt
